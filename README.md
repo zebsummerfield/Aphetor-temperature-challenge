@@ -1,0 +1,2 @@
+# Aphetor-temperature-project
+Aphetor was the company that hosted 'The Creator Games', a large collaboration between many social media creators which pitted them against each other in a series of challenges. I was hired as a freelance engineer to program a selection of ESP32 microcontrollers which would collect data during some challenges (such as body temperature during a cold water endurance competition), and send it to an api to be shown during streams in real-time.
